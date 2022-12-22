@@ -1,0 +1,18 @@
+Brand: Volvo
+Model: V70
+Color: Red
+Year of launch: 1995
+Transmission: Automatic
+--------------------------------------------------------------------------------
+Brand: BWM
+Model: Z3
+Color: Blue
+Year of launch: 2001
+Transmission: Automatic
+--------------------------------------------------------------------------------
+Brand: Skoda
+Model: Octavia RS
+Color: White
+Year of launch: 2003
+Transmission: Manual
+--------------------------------------------------------------------------------
